@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "SQLProject",
+            "group": "SQLProjectGroup",
+            "database": "bais_sqlite_lab.db"
+        }
+    ]
+}
