@@ -51,4 +51,4 @@ FROM customers
 WHERE loyalty_level ='Gold'
 GROUP BY city
 ORDER BY gold_members DESC
---Functioning
+
